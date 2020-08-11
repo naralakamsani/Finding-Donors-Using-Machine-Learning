@@ -15,5 +15,5 @@
 - pip install scikit-learn
 - pip install Jupyer Notebook
 
-## Open(run on command line)
+### Open(run on command line)
 * jupyter notebook
