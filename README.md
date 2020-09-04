@@ -13,7 +13,7 @@
 - pip install Pandas
 - pip install matplotlib
 - pip install scikit-learn
-- pip install Jupyer Notebook
+- pip install notebook
 
 ### Open(run on command line)
 * jupyter notebook
